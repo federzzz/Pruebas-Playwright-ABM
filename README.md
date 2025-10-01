@@ -1,0 +1,1 @@
+Dentro de la carpeta Tests se pueden visualizar varios scripts de pruebas automatizadas con typescript de varios ABM por ejemplo: alta , copia, modificación y eliminación de una Factura de venta. ABM de Cliente.
